@@ -2,7 +2,7 @@
 
 A responsive, hand-coded web project showcasing the intersection of biophilic design principles and advanced CSS layout techniques. 
 
-## 🌐 [View Live Project]([https://vibrant-impact.github.io/Cloudgarden_Interiors/](https://cloudgarden-interiors.vercel.app/))
+## 🌐 [View Live Project](https://cloudgarden-interiors.vercel.app/)
 
 ---
 
